@@ -1,2 +1,1 @@
-# Tron.Ecosystem.Reward
-Reward
+# Rewards
